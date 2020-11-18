@@ -1,0 +1,11 @@
+,city,age,salary,bonus
+1,Delhi,44,72000,No
+2,Mumbai,27,48000,Yes
+3,Mumbai,30,54000,No
+4,Delhi,38,61000,No
+5,Chennai,40,,Yes
+6,Mumbai,35,58000,Yes
+7,Chennai,,52000,No
+8,Mumbai,48,79000,Yes
+9,Delhi,50,83000,No
+10,Mumbai,37,67000,Yes
